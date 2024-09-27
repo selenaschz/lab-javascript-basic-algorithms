@@ -21,7 +21,7 @@ if (lengthDriver > lengthNavigator){
 
 } else {
 
-    console.log('Wow, you both have equally long names, XX characters!.');
+    console.log(`Wow, you both have equally long names, ${lengthDriver} characters!.`);
 }
 
 // Iteration 3: Loops
